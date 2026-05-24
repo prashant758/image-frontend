@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "category": "Nature & Landscapes",
+    "prompt": "A misty mountain range at sunrise with golden light breaking through clouds, photorealistic, 4K",
+    "filename": "generated-images/image_001.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_001.png",
+    "created_at": "2026-05-21T17:35:34.437Z"
+  },
+  {
+    "id": 2,
+    "category": "Nature & Landscapes",
+    "prompt": "A dense rainforest with a hidden waterfall, rays of sunlight filtering through tall trees, ultra-detailed",
+    "filename": "generated-images/image_002.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_002.png",
+    "created_at": "2026-05-21T17:37:04.966Z"
+  },
+  {
+    "id": 3,
+    "category": "Nature & Landscapes",
+    "prompt": "A vast desert at night with a brilliant Milky Way overhead and red rock formations silhouetted below",
+    "filename": "generated-images/image_003.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_003.png",
+    "created_at": "2026-05-21T17:38:34.771Z"
+  },
+  {
+    "id": 4,
+    "category": "Nature & Landscapes",
+    "prompt": "Cherry blossom trees lining a winding stone path in Japan during full bloom, soft pink petals falling",
+    "filename": "generated-images/image_004.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_004.png",
+    "created_at": "2026-05-21T17:40:04.889Z"
+  },
+  {
+    "id": 5,
+    "category": "Nature & Landscapes",
+    "prompt": "An arctic tundra with the Northern Lights dancing in vivid green and purple over a frozen lake",
+    "filename": "generated-images/image_005.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_005.png",
+    "created_at": "2026-05-21T17:41:34.342Z"
+  },
+  {
+    "id": 6,
+    "category": "Nature & Landscapes",
+    "prompt": "A tropical beach at sunset with crystal-clear turquoise water, white sand, and swaying palm trees",
+    "filename": "generated-images/image_006.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_006.png",
+    "created_at": "2026-05-21T17:43:04.902Z"
+  },
+  {
+    "id": 7,
+    "category": "Nature & Landscapes",
+    "prompt": "A foggy autumn forest with orange and red leaves covering the ground, cinematic mood lighting",
+    "filename": "generated-images/image_007.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_007.png",
+    "created_at": "2026-05-21T17:44:34.754Z"
+  },
+  {
+    "id": 8,
+    "category": "Nature & Landscapes",
+    "prompt": "Rolling green hills of Tuscany, Italy at golden hour with a lone farmhouse and cypress trees",
+    "filename": "generated-images/image_008.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_008.png",
+    "created_at": "2026-05-21T17:46:04.917Z"
+  },
+  {
+    "id": 9,
+    "category": "Nature & Landscapes",
+    "prompt": "A thunderstorm over the ocean at night with lightning striking the dark churning waves",
+    "filename": "generated-images/image_009.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_009.png",
+    "created_at": "2026-05-21T17:47:34.534Z"
+  },
+  {
+    "id": 10,
+    "category": "Nature & Landscapes",
+    "prompt": "A field of sunflowers under a dramatic cloudy sky at dusk, warm amber tones",
+    "filename": "generated-images/image_010.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_010.png",
+    "created_at": "2026-05-21T17:49:04.193Z"
+  },
+  {
+    "id": 11,
+    "category": "Fantasy & Magic",
+    "prompt": "A floating island kingdom in the clouds with waterfalls pouring into the sky, fantasy art style",
+    "filename": "generated-images/image_011.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_011.png",
+    "created_at": "2026-05-21T17:50:34.412Z"
+  },
+  {
+    "id": 12,
+    "category": "Fantasy & Magic",
+    "prompt": "A ancient wizard's tower in a dark enchanted forest, glowing runes on the stone walls, mystical",
+    "filename": "generated-images/image_012.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_012.png",
+    "created_at": "2026-05-21T17:52:05.181Z"
+  },
+  {
+    "id": 13,
+    "category": "Fantasy & Magic",
+    "prompt": "A dragon perched atop a snow-capped mountain at sunset, scales shimmering gold and red, epic fantasy",
+    "filename": "generated-images/image_013.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_013.png",
+    "created_at": "2026-05-21T17:53:34.456Z"
+  },
+  {
+    "id": 14,
+    "category": "Fantasy & Magic",
+    "prompt": "An underwater kingdom with mermaids, glowing coral palaces, bioluminescent fish, magical realism",
+    "filename": "generated-images/image_014.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_014.png",
+    "created_at": "2026-05-21T17:55:05.640Z"
+  },
+  {
+    "id": 15,
+    "category": "Fantasy & Magic",
+    "prompt": "A portal to another dimension opening in a dark forest, swirling cosmic energy, vibrant colors",
+    "filename": "generated-images/image_015.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_015.png",
+    "created_at": "2026-05-21T17:56:36.093Z"
+  },
+  {
+    "id": 16,
+    "category": "Fantasy & Magic",
+    "prompt": "A fairy tale castle made of ice and crystal in a snowy tundra, glowing from within, magical",
+    "filename": "generated-images/image_016.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_016.png",
+    "created_at": "2026-05-21T17:58:04.396Z"
+  },
+  {
+    "id": 17,
+    "category": "Fantasy & Magic",
+    "prompt": "An enchanted library with books flying through the air and glowing spell books on ancient shelves",
+    "filename": "generated-images/image_017.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_017.png",
+    "created_at": "2026-05-21T17:59:35.266Z"
+  },
+  {
+    "id": 18,
+    "category": "Fantasy & Magic",
+    "prompt": "A phoenix rising from golden flames against a dark sky, feathers made of fire and light",
+    "filename": "generated-images/image_018.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_018.png",
+    "created_at": "2026-05-21T18:01:07.311Z"
+  },
+  {
+    "id": 19,
+    "category": "Fantasy & Magic",
+    "prompt": "A mystical forest spirit made of moss and glowing vines, standing in an ancient woodland clearing",
+    "filename": "generated-images/image_019.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_019.png",
+    "created_at": "2026-05-21T18:02:35.059Z"
+  },
+  {
+    "id": 20,
+    "category": "Fantasy & Magic",
+    "prompt": "A dark elf warrior in obsidian armor standing at the entrance of a ruined dungeon, dramatic lighting",
+    "filename": "generated-images/image_020.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_020.png",
+    "created_at": "2026-05-21T18:04:04.549Z"
+  },
+  {
+    "id": 21,
+    "category": "Science Fiction & Space",
+    "prompt": "A futuristic megacity on Mars with red rocky terrain, dome habitats, and twin moons in the sky",
+    "filename": "generated-images/image_021.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_021.png",
+    "created_at": "2026-05-21T18:05:34.777Z"
+  },
+  {
+    "id": 22,
+    "category": "Science Fiction & Space",
+    "prompt": "A massive space station orbiting a gas giant, detailed hull, solar panels glinting in sunlight",
+    "filename": "generated-images/image_022.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_022.png",
+    "created_at": "2026-05-21T18:07:04.844Z"
+  },
+  {
+    "id": 23,
+    "category": "Science Fiction & Space",
+    "prompt": "A lone astronaut standing on the surface of an alien planet with two suns and strange purple vegetation",
+    "filename": "generated-images/image_023.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_023.png",
+    "created_at": "2026-05-21T18:08:34.600Z"
+  },
+  {
+    "id": 24,
+    "category": "Science Fiction & Space",
+    "prompt": "A wormhole in deep space surrounded by warping starfields and gravitational lensing effects",
+    "filename": "generated-images/image_024.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_024.png",
+    "created_at": "2026-05-21T18:10:04.595Z"
+  },
+  {
+    "id": 25,
+    "category": "Science Fiction & Space",
+    "prompt": "A cyberpunk city street in the rain at night, neon signs reflecting in puddles, flying vehicles overhead",
+    "filename": "generated-images/image_025.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_025.png",
+    "created_at": "2026-05-21T18:11:34.611Z"
+  },
+  {
+    "id": 26,
+    "category": "Science Fiction & Space",
+    "prompt": "An alien spacecraft hovering over a forest, beam of light descending, detailed metallic surface",
+    "filename": "generated-images/image_026.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_026.png",
+    "created_at": "2026-05-21T18:13:04.419Z"
+  },
+  {
+    "id": 27,
+    "category": "Science Fiction & Space",
+    "prompt": "A robot and a child sitting on a rooftop watching a sunset in a post-apocalyptic city, emotional art",
+    "filename": "generated-images/image_027.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_027.png",
+    "created_at": "2026-05-21T18:14:34.117Z"
+  },
+  {
+    "id": 28,
+    "category": "Science Fiction & Space",
+    "prompt": "A terraformed moon with oceans and forests, viewed from space with Earth in the background",
+    "filename": "generated-images/image_028.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_028.png",
+    "created_at": "2026-05-22T03:55:17.437Z"
+  },
+  {
+    "id": 29,
+    "category": "Science Fiction & Space",
+    "prompt": "An AI neural network visualized as glowing web of nodes in a dark void, digital art",
+    "filename": "generated-images/image_029.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_029.png",
+    "created_at": "2026-05-22T03:55:22.026Z"
+  },
+  {
+    "id": 30,
+    "category": "Science Fiction & Space",
+    "prompt": "A generation starship traveling through a nebula, massive scale, cinematic space opera style",
+    "filename": "generated-images/image_030.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_030.png",
+    "created_at": "2026-05-22T03:56:52.748Z"
+  },
+  {
+    "id": 31,
+    "category": "Architecture & Cities",
+    "prompt": "The Colosseum in Rome at night, dramatically lit against a dark blue sky, photorealistic",
+    "filename": "generated-images/image_031.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_031.png",
+    "created_at": "2026-05-22T03:58:23.074Z"
+  },
+  {
+    "id": 32,
+    "category": "Architecture & Cities",
+    "prompt": "A futuristic eco-city with vertical gardens covering skyscrapers, solar panels, and canals below",
+    "filename": "generated-images/image_032.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_032.png",
+    "created_at": "2026-05-22T03:59:52.568Z"
+  },
+  {
+    "id": 33,
+    "category": "Architecture & Cities",
+    "prompt": "An old medieval cobblestone street in Prague at dawn, gas lamps still lit, misty atmosphere",
+    "filename": "generated-images/image_033.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_033.png",
+    "created_at": "2026-05-22T04:01:26.371Z"
+  },
+  {
+    "id": 34,
+    "category": "Architecture & Cities",
+    "prompt": "A view of New York City from above at night, grid of lights, Brooklyn Bridge glowing below",
+    "filename": "generated-images/image_034.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_034.png",
+    "created_at": "2026-05-22T04:02:52.467Z"
+  },
+  {
+    "id": 35,
+    "category": "Architecture & Cities",
+    "prompt": "An abandoned Victorian mansion overgrown with vines and flowers, hauntingly beautiful, golden hour",
+    "filename": "generated-images/image_035.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_035.png",
+    "created_at": "2026-05-22T04:04:22.570Z"
+  },
+  {
+    "id": 36,
+    "category": "Architecture & Cities",
+    "prompt": "A traditional Japanese pagoda surrounded by autumn maple trees and a koi pond, serene",
+    "filename": "generated-images/image_036.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_036.png",
+    "created_at": "2026-05-22T04:05:52.924Z"
+  },
+  {
+    "id": 37,
+    "category": "Architecture & Cities",
+    "prompt": "An underground city carved into glowing crystal caverns, dwarven fantasy architecture",
+    "filename": "generated-images/image_037.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_037.png",
+    "created_at": "2026-05-22T04:07:22.630Z"
+  },
+  {
+    "id": 38,
+    "category": "Architecture & Cities",
+    "prompt": "A Moroccan medina at sunset, mosaic tiles, arches, warm terracotta tones, market stalls",
+    "filename": "generated-images/image_038.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_038.png",
+    "created_at": "2026-05-22T04:08:52.810Z"
+  },
+  {
+    "id": 39,
+    "category": "Architecture & Cities",
+    "prompt": "A hyper-modern glass museum building reflected in a still lake at dusk, minimalist design",
+    "filename": "generated-images/image_039.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_039.png",
+    "created_at": "2026-05-22T04:10:23.054Z"
+  },
+  {
+    "id": 40,
+    "category": "Architecture & Cities",
+    "prompt": "An ancient Mayan pyramid emerging from a jungle at dawn, mist clinging to the stone steps",
+    "filename": "generated-images/image_040.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_040.png",
+    "created_at": "2026-05-22T04:11:53.138Z"
+  },
+  {
+    "id": 41,
+    "category": "Wildlife & Animals",
+    "prompt": "A majestic lion standing on a rocky outcrop at sunrise in the African savanna, golden light",
+    "filename": "generated-images/image_041.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_041.png",
+    "created_at": "2026-05-22T04:13:22.259Z"
+  },
+  {
+    "id": 42,
+    "category": "Wildlife & Animals",
+    "prompt": "An underwater close-up of a great white shark in clear blue ocean water, dramatic angle",
+    "filename": "generated-images/image_042.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_042.png",
+    "created_at": "2026-05-22T04:14:52.493Z"
+  },
+  {
+    "id": 43,
+    "category": "Wildlife & Animals",
+    "prompt": "A snow leopard camouflaged against rocky mountain terrain, piercing blue eyes, ultra-detailed",
+    "filename": "generated-images/image_043.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_043.png",
+    "created_at": "2026-05-22T04:16:23.313Z"
+  },
+  {
+    "id": 44,
+    "category": "Wildlife & Animals",
+    "prompt": "A humpback whale breaching out of the ocean at sunset, water cascading from its body",
+    "filename": "generated-images/image_044.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_044.png",
+    "created_at": "2026-05-22T04:17:52.291Z"
+  },
+  {
+    "id": 45,
+    "category": "Wildlife & Animals",
+    "prompt": "A colorful poison dart frog on a wet tropical leaf, macro photography style, vivid colors",
+    "filename": "generated-images/image_045.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_045.png",
+    "created_at": "2026-05-22T04:19:22.415Z"
+  },
+  {
+    "id": 46,
+    "category": "Wildlife & Animals",
+    "prompt": "A wolf pack howling under a full moon on a snowy hill, blue and silver tones, dramatic",
+    "filename": "generated-images/image_046.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_046.png",
+    "created_at": "2026-05-22T04:20:52.833Z"
+  },
+  {
+    "id": 47,
+    "category": "Wildlife & Animals",
+    "prompt": "A close-up portrait of an eagle mid-flight, wings spread, fierce yellow eyes, sharp feather detail",
+    "filename": "generated-images/image_047.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_047.png",
+    "created_at": "2026-05-22T04:22:22.642Z"
+  },
+  {
+    "id": 48,
+    "category": "Wildlife & Animals",
+    "prompt": "A school of bioluminescent jellyfish drifting in deep dark ocean water, ethereal blue glow",
+    "filename": "generated-images/image_048.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_048.png",
+    "created_at": "2026-05-22T04:23:52.628Z"
+  },
+  {
+    "id": 49,
+    "category": "Wildlife & Animals",
+    "prompt": "A polar bear mother and cub on a melting ice floe in the Arctic, emotional, documentary style",
+    "filename": "generated-images/image_049.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_049.png",
+    "created_at": "2026-05-22T04:25:22.448Z"
+  },
+  {
+    "id": 50,
+    "category": "Wildlife & Animals",
+    "prompt": "A peacock displaying its full tail feathers in an enchanted garden, vibrant iridescent colors",
+    "filename": "generated-images/image_050.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_050.png",
+    "created_at": "2026-05-22T04:26:52.572Z"
+  },
+  {
+    "id": 51,
+    "category": "Food & Culinary",
+    "prompt": "A perfectly plated gourmet dish with micro herbs, edible flowers, and rich sauce artistically drizzled",
+    "filename": "generated-images/image_051.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_051.png",
+    "created_at": "2026-05-22T04:28:22.379Z"
+  },
+  {
+    "id": 52,
+    "category": "Food & Culinary",
+    "prompt": "A rustic wooden table with artisan bread, cheese, honey, and grapes in warm golden light",
+    "filename": "generated-images/image_052.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_052.png",
+    "created_at": "2026-05-22T04:29:52.392Z"
+  },
+  {
+    "id": 53,
+    "category": "Food & Culinary",
+    "prompt": "A towering chocolate cake with glossy ganache dripping down layers, garnished with berries",
+    "filename": "generated-images/image_053.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_053.png",
+    "created_at": "2026-05-22T04:31:22.403Z"
+  },
+  {
+    "id": 54,
+    "category": "Food & Culinary",
+    "prompt": "A bustling Japanese ramen shop kitchen at night, steam rising, chef at work, cinematic style",
+    "filename": "generated-images/image_054.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_054.png",
+    "created_at": "2026-05-22T04:32:51.983Z"
+  },
+  {
+    "id": 55,
+    "category": "Food & Culinary",
+    "prompt": "An overhead flat-lay of a colorful Indian spice market with vibrant powders in terracotta bowls",
+    "filename": "generated-images/image_055.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_055.png",
+    "created_at": "2026-05-22T04:34:22.934Z"
+  },
+  {
+    "id": 56,
+    "category": "Food & Culinary",
+    "prompt": "A freshly baked sourdough loaf on a floured surface, steam rising, crusty golden exterior",
+    "filename": "generated-images/image_056.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_056.png",
+    "created_at": "2026-05-22T04:35:52.537Z"
+  },
+  {
+    "id": 57,
+    "category": "Food & Culinary",
+    "prompt": "An elaborate sushi platter on dark slate, intricate rolls with colorful garnishes, minimal style",
+    "filename": "generated-images/image_057.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_057.png",
+    "created_at": "2026-05-22T04:37:22.643Z"
+  },
+  {
+    "id": 58,
+    "category": "Food & Culinary",
+    "prompt": "A cozy café corner with steaming latte art, a croissant, and morning sunlight streaming in",
+    "filename": "generated-images/image_058.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_058.png",
+    "created_at": "2026-05-22T04:38:52.248Z"
+  },
+  {
+    "id": 59,
+    "category": "Food & Culinary",
+    "prompt": "A vibrant açaí bowl topped with exotic fruits, granola, chia seeds, and edible flowers, top-down view",
+    "filename": "generated-images/image_059.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_059.png",
+    "created_at": "2026-05-22T04:40:22.370Z"
+  },
+  {
+    "id": 60,
+    "category": "Food & Culinary",
+    "prompt": "Molten lava cake being cut open with chocolate flowing out, dramatic close-up, dark background",
+    "filename": "generated-images/image_060.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_060.png",
+    "created_at": "2026-05-22T04:41:52.590Z"
+  },
+  {
+    "id": 61,
+    "category": "People & Portraits",
+    "prompt": "An elderly fisherman with weathered skin and kind eyes mending a net at golden hour, documentary style",
+    "filename": "generated-images/image_061.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_061.png",
+    "created_at": "2026-05-22T04:43:22.167Z"
+  },
+  {
+    "id": 62,
+    "category": "People & Portraits",
+    "prompt": "A young woman in traditional Indian bridal attire with intricate henna and gold jewelry, studio portrait",
+    "filename": "generated-images/image_062.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_062.png",
+    "created_at": "2026-05-22T04:44:52.410Z"
+  },
+  {
+    "id": 63,
+    "category": "People & Portraits",
+    "prompt": "A street performer juggling fire in a crowded night market, long exposure light trails, vibrant",
+    "filename": "generated-images/image_063.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_063.png",
+    "created_at": "2026-05-22T04:46:22.605Z"
+  },
+  {
+    "id": 64,
+    "category": "People & Portraits",
+    "prompt": "A samurai warrior in full armor standing in a bamboo forest during light rain, cinematic, detailed",
+    "filename": "generated-images/image_064.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_064.png",
+    "created_at": "2026-05-22T04:47:52.729Z"
+  },
+  {
+    "id": 65,
+    "category": "People & Portraits",
+    "prompt": "A ballet dancer mid-leap on a dark stage, spotlight from above, dramatic shadows",
+    "filename": "generated-images/image_065.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_065.png",
+    "created_at": "2026-05-22T04:49:22.232Z"
+  },
+  {
+    "id": 66,
+    "category": "People & Portraits",
+    "prompt": "A tribal elder with face paint and ceremonial headdress in a desert landscape, powerful portrait",
+    "filename": "generated-images/image_066.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_066.png",
+    "created_at": "2026-05-22T04:50:52.448Z"
+  },
+  {
+    "id": 67,
+    "category": "People & Portraits",
+    "prompt": "A child looking up in wonder at snow falling for the first time, joy and amazement captured",
+    "filename": "generated-images/image_067.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_067.png",
+    "created_at": "2026-05-22T04:52:22.359Z"
+  },
+  {
+    "id": 68,
+    "category": "People & Portraits",
+    "prompt": "A Viking warrior standing on a cliff overlooking the sea in a storm, dramatic cinematics",
+    "filename": "generated-images/image_068.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_068.png",
+    "created_at": "2026-05-22T04:53:52.475Z"
+  },
+  {
+    "id": 69,
+    "category": "People & Portraits",
+    "prompt": "A female scientist working in a futuristic lab, holographic data floating around her, sharp detail",
+    "filename": "generated-images/image_069.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_069.png",
+    "created_at": "2026-05-22T04:55:23.392Z"
+  },
+  {
+    "id": 70,
+    "category": "People & Portraits",
+    "prompt": "An old monk meditating in a Himalayan monastery at dawn, serene and spiritual atmosphere",
+    "filename": "generated-images/image_070.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_070.png",
+    "created_at": "2026-05-22T04:56:52.218Z"
+  },
+  {
+    "id": 71,
+    "category": "Abstract & Digital Art",
+    "prompt": "A fluid pour painting with metallic gold, deep blue, and emerald swirling together, macro view",
+    "filename": "generated-images/image_071.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_071.png",
+    "created_at": "2026-05-22T04:58:22.707Z"
+  },
+  {
+    "id": 72,
+    "category": "Abstract & Digital Art",
+    "prompt": "A geometric fractal pattern expanding infinitely, neon colors on black, digital mathematics art",
+    "filename": "generated-images/image_072.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_072.png",
+    "created_at": "2026-05-22T04:59:52.262Z"
+  },
+  {
+    "id": 73,
+    "category": "Abstract & Digital Art",
+    "prompt": "Human brain neurons firing visualized as glowing golden threads in dark space, scientific art",
+    "filename": "generated-images/image_073.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_073.png",
+    "created_at": "2026-05-22T05:01:26.337Z"
+  },
+  {
+    "id": 74,
+    "category": "Abstract & Digital Art",
+    "prompt": "A shattered mirror reflecting fractured rainbow light in all directions, surreal concept art",
+    "filename": "generated-images/image_074.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_074.png",
+    "created_at": "2026-05-22T05:02:52.640Z"
+  },
+  {
+    "id": 75,
+    "category": "Abstract & Digital Art",
+    "prompt": "Sound waves from a symphony orchestra visualized as colorful 3D ribbons in space, digital art",
+    "filename": "generated-images/image_075.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_075.png",
+    "created_at": "2026-05-22T05:04:23.025Z"
+  },
+  {
+    "id": 76,
+    "category": "Abstract & Digital Art",
+    "prompt": "Time represented as an infinite spiral of hourglasses in a surreal dreamscape, dark and moody",
+    "filename": "generated-images/image_076.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_076.png",
+    "created_at": "2026-05-22T05:05:52.640Z"
+  },
+  {
+    "id": 77,
+    "category": "Abstract & Digital Art",
+    "prompt": "A human silhouette made entirely of galaxies and nebulae, cosmic figure, digital painting",
+    "filename": "generated-images/image_077.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_077.png",
+    "created_at": "2026-05-22T05:07:22.470Z"
+  },
+  {
+    "id": 78,
+    "category": "Abstract & Digital Art",
+    "prompt": "Thousands of butterflies forming the shape of a tree, vibrant colors, motion blur, artistic",
+    "filename": "generated-images/image_078.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_078.png",
+    "created_at": "2026-05-22T05:08:52.686Z"
+  },
+  {
+    "id": 79,
+    "category": "Abstract & Digital Art",
+    "prompt": "An ocean wave frozen mid-crash, translucent blue glass effect, detailed water art",
+    "filename": "generated-images/image_079.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_079.png",
+    "created_at": "2026-05-22T05:10:23.006Z"
+  },
+  {
+    "id": 80,
+    "category": "Abstract & Digital Art",
+    "prompt": "A cityscape melting like a Salvador Dali painting into a surreal landscape below",
+    "filename": "generated-images/image_080.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_080.png",
+    "created_at": "2026-05-22T05:11:52.710Z"
+  },
+  {
+    "id": 81,
+    "category": "Seasons & Weather",
+    "prompt": "A village covered in heavy fresh snow at night, warm light from windows, peaceful and still",
+    "filename": "generated-images/image_081.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_081.png",
+    "created_at": "2026-05-22T05:13:23.327Z"
+  },
+  {
+    "id": 82,
+    "category": "Seasons & Weather",
+    "prompt": "A dramatic tornado cutting across an open Oklahoma prairie at dusk, stormy yellows and purples",
+    "filename": "generated-images/image_082.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_082.png",
+    "created_at": "2026-05-22T05:14:52.383Z"
+  },
+  {
+    "id": 83,
+    "category": "Seasons & Weather",
+    "prompt": "A rainbow arching over a green valley after a summer rainstorm, vivid and photorealistic",
+    "filename": "generated-images/image_083.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_083.png",
+    "created_at": "2026-05-22T05:16:22.641Z"
+  },
+  {
+    "id": 84,
+    "category": "Seasons & Weather",
+    "prompt": "A frost-covered spider web glistening in early morning sunlight, extreme macro photography",
+    "filename": "generated-images/image_084.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_084.png",
+    "created_at": "2026-05-22T05:17:52.843Z"
+  },
+  {
+    "id": 85,
+    "category": "Seasons & Weather",
+    "prompt": "Children playing in autumn leaves in a city park, warm amber tones, joyful, candid feel",
+    "filename": "generated-images/image_085.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_085.png",
+    "created_at": "2026-05-22T05:19:22.456Z"
+  },
+  {
+    "id": 86,
+    "category": "Seasons & Weather",
+    "prompt": "A monsoon rain hitting a narrow Indian alley, reflection of colorful buildings in water puddles",
+    "filename": "generated-images/image_086.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_086.png",
+    "created_at": "2026-05-22T05:20:52.564Z"
+  },
+  {
+    "id": 87,
+    "category": "Seasons & Weather",
+    "prompt": "A blizzard hitting a lighthouse on a rocky coast, powerful waves crashing, moody drama",
+    "filename": "generated-images/image_087.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_087.png",
+    "created_at": "2026-05-22T05:22:22.584Z"
+  },
+  {
+    "id": 88,
+    "category": "Seasons & Weather",
+    "prompt": "Early spring flowers pushing through snow, delicate pink blooms, macro close-up, hopeful",
+    "filename": "generated-images/image_088.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_088.png",
+    "created_at": "2026-05-22T05:23:52.589Z"
+  },
+  {
+    "id": 89,
+    "category": "Seasons & Weather",
+    "prompt": "A dust storm rolling over a desert city at dusk, orange wall of sand, apocalyptic feel",
+    "filename": "generated-images/image_089.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_089.png",
+    "created_at": "2026-05-22T05:25:21.973Z"
+  },
+  {
+    "id": 90,
+    "category": "Seasons & Weather",
+    "prompt": "A summer thunderstorm reflected in a still lake surrounded by dark pine forest, dramatic sky",
+    "filename": "generated-images/image_090.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_090.png",
+    "created_at": "2026-05-22T05:26:52.612Z"
+  },
+  {
+    "id": 91,
+    "category": "Cultural & Historical",
+    "prompt": "Ancient Rome at its peak, the Forum alive with merchants and senators, photorealistic reconstruction",
+    "filename": "generated-images/image_091.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_091.png",
+    "created_at": "2026-05-22T05:28:22.837Z"
+  },
+  {
+    "id": 92,
+    "category": "Cultural & Historical",
+    "prompt": "A traditional Rajasthani puppet show at dusk with lanterns and colorful costumes",
+    "filename": "generated-images/image_092.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_092.png",
+    "created_at": "2026-05-22T05:29:52.743Z"
+  },
+  {
+    "id": 93,
+    "category": "Cultural & Historical",
+    "prompt": "Egyptian pharaoh's tomb interior, hieroglyphs and gold treasures illuminated by torchlight",
+    "filename": "generated-images/image_093.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_093.png",
+    "created_at": "2026-05-22T05:31:23.571Z"
+  },
+  {
+    "id": 94,
+    "category": "Cultural & Historical",
+    "prompt": "A feudal Japan market scene with samurai, merchants, and paper lanterns at twilight",
+    "filename": "generated-images/image_094.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_094.png",
+    "created_at": "2026-05-22T05:32:52.560Z"
+  },
+  {
+    "id": 95,
+    "category": "Cultural & Historical",
+    "prompt": "The Silk Road trade route with camel caravans crossing a desert dune at golden hour",
+    "filename": "generated-images/image_095.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_095.png",
+    "created_at": "2026-05-22T05:34:22.675Z"
+  },
+  {
+    "id": 96,
+    "category": "Cultural & Historical",
+    "prompt": "A Viking longship navigating a fjord under the Northern Lights, oarsmen rowing, epic scene",
+    "filename": "generated-images/image_096.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_096.png",
+    "created_at": "2026-05-22T05:35:52.567Z"
+  },
+  {
+    "id": 97,
+    "category": "Cultural & Historical",
+    "prompt": "An ancient Greek amphitheater with a play in progress under a full moon, atmospheric",
+    "filename": "generated-images/image_097.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_097.png",
+    "created_at": "2026-05-22T05:37:22.351Z"
+  },
+  {
+    "id": 98,
+    "category": "Cultural & Historical",
+    "prompt": "The Great Wall of China in winter, snow-covered towers winding over mountains at sunrise",
+    "filename": "generated-images/image_098.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_098.png",
+    "created_at": "2026-05-22T05:38:52.609Z"
+  },
+  {
+    "id": 99,
+    "category": "Cultural & Historical",
+    "prompt": "A 1920s jazz club with musicians on stage, smoke-filled room, warm amber lighting, art deco style",
+    "filename": "generated-images/image_099.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_099.png",
+    "created_at": "2026-05-22T05:40:22.236Z"
+  },
+  {
+    "id": 100,
+    "category": "Cultural & Historical",
+    "prompt": "A Mesoamerican ball game ceremony with colorful stone courts and spectators in ancient garb",
+    "filename": "generated-images/image_100.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_100.png",
+    "created_at": "2026-05-22T05:41:52.414Z"
+  },
+  {
+    "id": 101,
+    "category": "Technology & Innovation",
+    "prompt": "A quantum computer in a glass lab, glowing blue superconducting chips, futuristic and clean",
+    "filename": "generated-images/image_101.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_101.png",
+    "created_at": "2026-05-22T05:43:22.538Z"
+  },
+  {
+    "id": 102,
+    "category": "Technology & Innovation",
+    "prompt": "A brain-computer interface visualized as golden circuits merging with neural tissue, sci-fi concept art",
+    "filename": "generated-images/image_102.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_102.png",
+    "created_at": "2026-05-22T05:44:52.851Z"
+  },
+  {
+    "id": 103,
+    "category": "Technology & Innovation",
+    "prompt": "A fully autonomous factory floor at night, robotic arms working under blue-white lights",
+    "filename": "generated-images/image_103.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_103.png",
+    "created_at": "2026-05-22T05:46:22.768Z"
+  },
+  {
+    "id": 104,
+    "category": "Technology & Innovation",
+    "prompt": "A 3D printer creating an intricate lattice structure, close-up, warm amber filament glow",
+    "filename": "generated-images/image_104.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_104.png",
+    "created_at": "2026-05-22T05:47:52.370Z"
+  },
+  {
+    "id": 105,
+    "category": "Technology & Innovation",
+    "prompt": "A smart city control room with massive holographic data screens and operators, cinematic",
+    "filename": "generated-images/image_105.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_105.png",
+    "created_at": "2026-05-22T05:49:22.688Z"
+  },
+  {
+    "id": 106,
+    "category": "Technology & Innovation",
+    "prompt": "Solar panels stretching to the horizon in a desert, clean energy at scale, aerial view",
+    "filename": "generated-images/image_106.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_106.png",
+    "created_at": "2026-05-22T05:50:53.019Z"
+  },
+  {
+    "id": 107,
+    "category": "Technology & Innovation",
+    "prompt": "A hyperloop pod entering a transparent tunnel over a mountain landscape, futuristic transport",
+    "filename": "generated-images/image_107.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_107.png",
+    "created_at": "2026-05-22T05:52:22.306Z"
+  },
+  {
+    "id": 108,
+    "category": "Technology & Innovation",
+    "prompt": "An exoskeleton suit being worn by a construction worker on a high-rise, near-future realism",
+    "filename": "generated-images/image_108.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_108.png",
+    "created_at": "2026-05-22T05:53:52.415Z"
+  },
+  {
+    "id": 109,
+    "category": "Technology & Innovation",
+    "prompt": "Nanotechnology robots in the bloodstream visualized at microscopic scale, scientific art, glowing",
+    "filename": "generated-images/image_109.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_109.png",
+    "created_at": "2026-05-22T05:55:23.034Z"
+  },
+  {
+    "id": 110,
+    "category": "Technology & Innovation",
+    "prompt": "A drone swarm forming patterns in the sky at night, light trails creating art above a city",
+    "filename": "generated-images/image_110.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_110.png",
+    "created_at": "2026-05-22T05:56:52.745Z"
+  },
+  {
+    "id": 111,
+    "category": "Interior Design & Spaces",
+    "prompt": "A cozy bohemian living room with macramé, hanging plants, rattan furniture and warm candlelight",
+    "filename": "generated-images/image_111.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_111.png",
+    "created_at": "2026-05-22T05:58:22.860Z"
+  },
+  {
+    "id": 112,
+    "category": "Interior Design & Spaces",
+    "prompt": "A minimalist Japanese zen garden room with clean lines, stone, bamboo, and soft natural light",
+    "filename": "generated-images/image_112.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_112.png",
+    "created_at": "2026-05-22T05:59:52.565Z"
+  },
+  {
+    "id": 113,
+    "category": "Interior Design & Spaces",
+    "prompt": "A luxury penthouse rooftop terrace at night with infinity pool, city skyline, and stars above",
+    "filename": "generated-images/image_113.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_113.png",
+    "created_at": "2026-05-22T06:01:23.288Z"
+  },
+  {
+    "id": 114,
+    "category": "Interior Design & Spaces",
+    "prompt": "A wood and glass treehouse interior with forest views from every window, modern rustic design",
+    "filename": "generated-images/image_114.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_114.png",
+    "created_at": "2026-05-22T06:02:52.792Z"
+  },
+  {
+    "id": 115,
+    "category": "Interior Design & Spaces",
+    "prompt": "A grand baroque library with floor-to-ceiling bookshelves, sliding ladders, and warm lantern light",
+    "filename": "generated-images/image_115.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_115.png",
+    "created_at": "2026-05-22T06:04:23.009Z"
+  },
+  {
+    "id": 116,
+    "category": "Interior Design & Spaces",
+    "prompt": "A futuristic all-white bedroom with glowing smart panels and a view of Earth from orbit",
+    "filename": "generated-images/image_116.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_116.png",
+    "created_at": "2026-05-22T06:05:56.398Z"
+  },
+  {
+    "id": 117,
+    "category": "Interior Design & Spaces",
+    "prompt": "An underground cave home with natural rock walls, crystal formations, and soft LED lighting",
+    "filename": "generated-images/image_117.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_117.png",
+    "created_at": "2026-05-22T06:07:22.805Z"
+  },
+  {
+    "id": 118,
+    "category": "Interior Design & Spaces",
+    "prompt": "A colorful Moroccan riad courtyard with fountain, mosaic tiles, orange trees, and sunbeams",
+    "filename": "generated-images/image_118.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_118.png",
+    "created_at": "2026-05-22T06:08:52.762Z"
+  },
+  {
+    "id": 119,
+    "category": "Interior Design & Spaces",
+    "prompt": "A glass-floored room suspended over a tropical coral reef, looking down at colorful marine life",
+    "filename": "generated-images/image_119.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_119.png",
+    "created_at": "2026-05-22T06:10:22.978Z"
+  },
+  {
+    "id": 121,
+    "category": "Mythology & Legends",
+    "prompt": "Poseidon rising from a stormy ocean, trident raised, waves crashing around him, epic mythology art",
+    "filename": "generated-images/image_121.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_121.png",
+    "created_at": "2026-05-22T06:12:42.013Z"
+  },
+  {
+    "id": 123,
+    "category": "Mythology & Legends",
+    "prompt": "Anubis weighing a soul on golden scales in the Egyptian underworld, candlelit temple interior",
+    "filename": "generated-images/image_123.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_123.png",
+    "created_at": "2026-05-22T06:14:26.989Z"
+  },
+  {
+    "id": 124,
+    "category": "Mythology & Legends",
+    "prompt": "A Medusa portrait with snake hair beautifully detailed, golden and emerald scales, intense stare",
+    "filename": "generated-images/image_124.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_124.png",
+    "created_at": "2026-05-22T06:15:56.455Z"
+  },
+  {
+    "id": 126,
+    "category": "Mythology & Legends",
+    "prompt": "Athena goddess of wisdom in silver armor holding a spear and owl on the Acropolis at dawn",
+    "filename": "generated-images/image_126.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_126.png",
+    "created_at": "2026-05-22T06:17:25.259Z"
+  },
+  {
+    "id": 127,
+    "category": "Mythology & Legends",
+    "prompt": "A Chinese dragon coiling around a mountain peak in mist, traditional ink wash painting style",
+    "filename": "generated-images/image_127.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_127.png",
+    "created_at": "2026-05-22T06:18:55.373Z"
+  },
+  {
+    "id": 128,
+    "category": "Mythology & Legends",
+    "prompt": "The Hindu god Shiva dancing the Nataraja in a cosmic ring of fire, colorful and detailed",
+    "filename": "generated-images/image_128.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_128.png",
+    "created_at": "2026-05-22T06:20:25.483Z"
+  },
+  {
+    "id": 130,
+    "category": "Mythology & Legends",
+    "prompt": "Excalibur sword glowing in a stone in a foggy enchanted forest, rays of magical light around it",
+    "filename": "generated-images/image_130.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_130.png",
+    "created_at": "2026-05-22T06:21:54.058Z"
+  },
+  {
+    "id": 131,
+    "category": "Sports & Action",
+    "prompt": "A surfer riding a massive 50-foot wave in slow motion, sea spray frozen in air, dramatic",
+    "filename": "generated-images/image_131.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_131.png",
+    "created_at": "2026-05-22T06:23:24.383Z"
+  },
+  {
+    "id": 132,
+    "category": "Sports & Action",
+    "prompt": "A Formula 1 car at night race with light trails, sparks flying, motion blur, dynamic angle",
+    "filename": "generated-images/image_132.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_132.png",
+    "created_at": "2026-05-22T06:24:54.491Z"
+  },
+  {
+    "id": 133,
+    "category": "Sports & Action",
+    "prompt": "A rock climber at the summit of a sheer cliff face, arms raised, sweeping mountain panorama below",
+    "filename": "generated-images/image_133.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_133.png",
+    "created_at": "2026-05-22T06:26:24.102Z"
+  },
+  {
+    "id": 134,
+    "category": "Sports & Action",
+    "prompt": "A skateboarder performing a trick silhouetted against a sunset sky, urban photography style",
+    "filename": "generated-images/image_134.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_134.png",
+    "created_at": "2026-05-22T06:27:54.106Z"
+  },
+  {
+    "id": 135,
+    "category": "Sports & Action",
+    "prompt": "An archer in the forest drawing a bow, focus and tension visible, cinematic shallow depth",
+    "filename": "generated-images/image_135.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_135.png",
+    "created_at": "2026-05-22T06:29:24.122Z"
+  },
+  {
+    "id": 136,
+    "category": "Sports & Action",
+    "prompt": "A freerunner leaping between rooftops of a city at dawn, dynamic motion, urban adventure",
+    "filename": "generated-images/image_136.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_136.png",
+    "created_at": "2026-05-22T06:30:54.867Z"
+  },
+  {
+    "id": 137,
+    "category": "Sports & Action",
+    "prompt": "Martial arts sparring match in a traditional Japanese dojo, motion blur on fast strikes",
+    "filename": "generated-images/image_137.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_137.png",
+    "created_at": "2026-05-22T06:32:24.501Z"
+  },
+  {
+    "id": 138,
+    "category": "Sports & Action",
+    "prompt": "A base jumper leaping from a cliff with a wing suit, plummeting over a fjord, aerial view",
+    "filename": "generated-images/image_138.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_138.png",
+    "created_at": "2026-05-22T06:33:54.155Z"
+  },
+  {
+    "id": 139,
+    "category": "Sports & Action",
+    "prompt": "A polo match at golden hour with horses mid-gallop, dust rising, powerful and elegant",
+    "filename": "generated-images/image_139.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_139.png",
+    "created_at": "2026-05-22T06:35:24.167Z"
+  },
+  {
+    "id": 140,
+    "category": "Sports & Action",
+    "prompt": "A solo mountaineer in a blizzard pushing to the summit of Everest, determination and isolation",
+    "filename": "generated-images/image_140.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_140.png",
+    "created_at": "2026-05-22T06:36:54.104Z"
+  },
+  {
+    "id": 141,
+    "category": "Emotion & Mood",
+    "prompt": "A person standing alone at the end of a long empty road at dusk, sense of longing and journey",
+    "filename": "generated-images/image_141.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_141.png",
+    "created_at": "2026-05-22T06:38:23.672Z"
+  },
+  {
+    "id": 142,
+    "category": "Emotion & Mood",
+    "prompt": "Two old friends reuniting at a train station, embracing, warm nostalgic golden tones",
+    "filename": "generated-images/image_142.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_142.png",
+    "created_at": "2026-05-22T06:39:53.993Z"
+  },
+  {
+    "id": 143,
+    "category": "Emotion & Mood",
+    "prompt": "A child reading a glowing book in a dark room, imagination becoming visible as light",
+    "filename": "generated-images/image_143.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_143.png",
+    "created_at": "2026-05-22T06:41:24.419Z"
+  },
+  {
+    "id": 144,
+    "category": "Emotion & Mood",
+    "prompt": "Hands of a grandmother and grandchild holding together, weathered and young skin, tender emotion",
+    "filename": "generated-images/image_144.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_144.png",
+    "created_at": "2026-05-22T06:42:53.899Z"
+  },
+  {
+    "id": 145,
+    "category": "Emotion & Mood",
+    "prompt": "A silhouette of a couple dancing on a rooftop under falling snow, soft romantic lighting",
+    "filename": "generated-images/image_145.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_145.png",
+    "created_at": "2026-05-22T06:44:24.336Z"
+  },
+  {
+    "id": 146,
+    "category": "Emotion & Mood",
+    "prompt": "A person standing in the rain with umbrella at a crossroads, melancholy, cinematic color grading",
+    "filename": "generated-images/image_146.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_146.png",
+    "created_at": "2026-05-22T06:45:55.896Z"
+  },
+  {
+    "id": 147,
+    "category": "Emotion & Mood",
+    "prompt": "A crowd of people all looking at their phones except one child watching a butterfly, social commentary",
+    "filename": "generated-images/image_147.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_147.png",
+    "created_at": "2026-05-22T06:47:24.771Z"
+  },
+  {
+    "id": 148,
+    "category": "Emotion & Mood",
+    "prompt": "A military veteran returning home, family running to embrace them, candid and emotional moment",
+    "filename": "generated-images/image_148.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_148.png",
+    "created_at": "2026-05-22T06:48:54.072Z"
+  },
+  {
+    "id": 149,
+    "category": "Emotion & Mood",
+    "prompt": "A graduation cap thrown in the air, joy and achievement, blurred crowd of happy graduates",
+    "filename": "generated-images/image_149.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_149.png",
+    "created_at": "2026-05-22T06:50:23.867Z"
+  },
+  {
+    "id": 150,
+    "category": "Emotion & Mood",
+    "prompt": "An empty park bench with autumn leaves and a single red rose, quiet grief and memory",
+    "filename": "generated-images/image_150.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_150.png",
+    "created_at": "2026-05-22T06:51:54.065Z"
+  },
+  {
+    "id": 151,
+    "category": "Macro & Micro",
+    "prompt": "A snowflake crystal up close, perfect hexagonal geometry, blue and white tones, extreme macro",
+    "filename": "generated-images/image_151.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_151.png",
+    "created_at": "2026-05-22T06:53:23.830Z"
+  },
+  {
+    "id": 152,
+    "category": "Macro & Micro",
+    "prompt": "The eye of a peacock feather in extreme macro, iridescent blues and greens, detailed barbules",
+    "filename": "generated-images/image_152.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_152.png",
+    "created_at": "2026-05-22T06:54:54.111Z"
+  },
+  {
+    "id": 153,
+    "category": "Macro & Micro",
+    "prompt": "A water droplet on a lotus leaf magnified, surface tension creating perfect spheres",
+    "filename": "generated-images/image_153.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_153.png",
+    "created_at": "2026-05-22T06:56:26.272Z"
+  },
+  {
+    "id": 154,
+    "category": "Macro & Micro",
+    "prompt": "A bee collecting pollen on a sunflower, dusted in yellow, ultra-close macro, sharp detail",
+    "filename": "generated-images/image_154.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_154.png",
+    "created_at": "2026-05-22T06:57:55.386Z"
+  },
+  {
+    "id": 155,
+    "category": "Macro & Micro",
+    "prompt": "Dew drops on a spider web at sunrise, each bead reflecting the surrounding forest, macro",
+    "filename": "generated-images/image_155.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_155.png",
+    "created_at": "2026-05-22T06:59:24.120Z"
+  },
+  {
+    "id": 156,
+    "category": "Macro & Micro",
+    "prompt": "The cross-section of a seashell with Fibonacci spiral pattern visible, mathematical beauty",
+    "filename": "generated-images/image_156.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_156.png",
+    "created_at": "2026-05-22T07:01:00.841Z"
+  },
+  {
+    "id": 157,
+    "category": "Macro & Micro",
+    "prompt": "Ink dropped in water in ultra slow motion, billowing dark cloud shapes, black and white",
+    "filename": "generated-images/image_157.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_157.png",
+    "created_at": "2026-05-22T07:02:36.617Z"
+  },
+  {
+    "id": 158,
+    "category": "Macro & Micro",
+    "prompt": "A butterfly wing scale texture at 100x magnification, overlapping iridescent tiles, alien beauty",
+    "filename": "generated-images/image_158.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_158.png",
+    "created_at": "2026-05-22T07:03:54.179Z"
+  },
+  {
+    "id": 159,
+    "category": "Macro & Micro",
+    "prompt": "The texture of aged tree bark in extreme close-up, crevices like a canyon, golden side light",
+    "filename": "generated-images/image_159.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_159.png",
+    "created_at": "2026-05-22T07:05:24.392Z"
+  },
+  {
+    "id": 160,
+    "category": "Macro & Micro",
+    "prompt": "Salt crystal formation under polarized microscopy, geometric rainbow patterns, abstract science",
+    "filename": "generated-images/image_160.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_160.png",
+    "created_at": "2026-05-22T07:07:01.164Z"
+  },
+  {
+    "id": 161,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A Victorian steampunk airship city floating above the clouds, brass gears, steam exhaust, ornate",
+    "filename": "generated-images/image_161.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_161.png",
+    "created_at": "2026-05-22T07:08:25.859Z"
+  },
+  {
+    "id": 162,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A steampunk automaton clockwork soldier standing guard in a cobblestone alley, gaslit night",
+    "filename": "generated-images/image_162.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_162.png",
+    "created_at": "2026-05-22T07:09:55.857Z"
+  },
+  {
+    "id": 163,
+    "category": "Steampunk & Alternative History",
+    "prompt": "An alternate history 1880s Tokyo with steam-powered rickshaws and neon signs, mixed culture",
+    "filename": "generated-images/image_163.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_163.png",
+    "created_at": "2026-05-22T07:11:25.944Z"
+  },
+  {
+    "id": 164,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A steampunk submarine docked in an underground cavern harbor, gears and pipes everywhere",
+    "filename": "generated-images/image_164.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_164.png",
+    "created_at": "2026-05-22T07:12:55.202Z"
+  },
+  {
+    "id": 165,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A female steampunk inventor in goggles and brass armor, surrounded by blueprints and gadgets",
+    "filename": "generated-images/image_165.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_165.png",
+    "created_at": "2026-05-22T07:14:24.353Z"
+  },
+  {
+    "id": 166,
+    "category": "Steampunk & Alternative History",
+    "prompt": "An ancient Rome where the Romans discovered steam power, legions with mechanical siege engines",
+    "filename": "generated-images/image_166.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_166.png",
+    "created_at": "2026-05-22T07:15:58.573Z"
+  },
+  {
+    "id": 167,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A clockwork dragon made of copper gears and pipes breathing steam, mechanical fantasy art",
+    "filename": "generated-images/image_167.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_167.png",
+    "created_at": "2026-05-22T07:17:24.485Z"
+  },
+  {
+    "id": 168,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A Victorian-era steampunk city at night with neon signs and coal-powered trams, atmospheric",
+    "filename": "generated-images/image_168.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_168.png",
+    "created_at": "2026-05-22T07:18:54.292Z"
+  },
+  {
+    "id": 169,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A steampunk space race — a coal-fired rocket launching from Big Ben in 1895, alternate history",
+    "filename": "generated-images/image_169.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_169.png",
+    "created_at": "2026-05-22T07:20:24.437Z"
+  },
+  {
+    "id": 170,
+    "category": "Steampunk & Alternative History",
+    "prompt": "A ruined steampunk factory reclaimed by nature, vines growing over massive iron machines",
+    "filename": "generated-images/image_170.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_170.png",
+    "created_at": "2026-05-22T07:21:54.715Z"
+  },
+  {
+    "id": 171,
+    "category": "Dreams & Surrealism",
+    "prompt": "A giant clock face melting over a cliff edge into an ocean, surrealist dream landscape",
+    "filename": "generated-images/image_171.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_171.png",
+    "created_at": "2026-05-22T07:23:24.694Z"
+  },
+  {
+    "id": 172,
+    "category": "Dreams & Surrealism",
+    "prompt": "A staircase leading to a door in the sky above clouds, mysterious and ethereal, soft colors",
+    "filename": "generated-images/image_172.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_172.png",
+    "created_at": "2026-05-22T07:24:54.127Z"
+  },
+  {
+    "id": 173,
+    "category": "Dreams & Surrealism",
+    "prompt": "A forest where the trees are made of books and the roots are sentences, literary surrealism",
+    "filename": "generated-images/image_173.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_173.png",
+    "created_at": "2026-05-22T07:26:24.450Z"
+  },
+  {
+    "id": 174,
+    "category": "Dreams & Surrealism",
+    "prompt": "A figure made of starlight and shadow standing in a field of glass flowers, dreamy and dark",
+    "filename": "generated-images/image_174.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_174.png",
+    "created_at": "2026-05-22T07:27:54.564Z"
+  },
+  {
+    "id": 175,
+    "category": "Dreams & Surrealism",
+    "prompt": "An upside-down city reflected in a lake that is perfectly dry, impossible physics art",
+    "filename": "generated-images/image_175.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_175.png",
+    "created_at": "2026-05-22T07:29:24.276Z"
+  },
+  {
+    "id": 176,
+    "category": "Dreams & Surrealism",
+    "prompt": "A room where every wall is a different landscape — forest, ocean, space, and desert",
+    "filename": "generated-images/image_176.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_176.png",
+    "created_at": "2026-05-22T07:30:54.388Z"
+  },
+  {
+    "id": 177,
+    "category": "Dreams & Surrealism",
+    "prompt": "A person walking through their own mind depicted as corridors of memories and emotions",
+    "filename": "generated-images/image_177.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_177.png",
+    "created_at": "2026-05-22T07:32:23.984Z"
+  },
+  {
+    "id": 178,
+    "category": "Dreams & Surrealism",
+    "prompt": "A moon that is also a doorknob, leading to a universe behind it, surreal digital painting",
+    "filename": "generated-images/image_178.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_178.png",
+    "created_at": "2026-05-22T07:33:54.192Z"
+  },
+  {
+    "id": 179,
+    "category": "Dreams & Surrealism",
+    "prompt": "A river of light flowing through a dark city where all the buildings are transparent memories",
+    "filename": "generated-images/image_179.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_179.png",
+    "created_at": "2026-05-22T07:35:23.920Z"
+  },
+  {
+    "id": 180,
+    "category": "Dreams & Surrealism",
+    "prompt": "A sleeping giant whose dream appears as a glowing cloud above their head, serene surrealism",
+    "filename": "generated-images/image_180.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_180.png",
+    "created_at": "2026-05-22T07:36:53.912Z"
+  },
+  {
+    "id": 181,
+    "category": "Vehicles & Transport",
+    "prompt": "A vintage steam locomotive bursting through heavy snowfall at night, sparks flying, dramatic",
+    "filename": "generated-images/image_181.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_181.png",
+    "created_at": "2026-05-22T07:38:24.223Z"
+  },
+  {
+    "id": 182,
+    "category": "Vehicles & Transport",
+    "prompt": "A classic 1960s muscle car on an empty American highway at sunset, long road ahead",
+    "filename": "generated-images/image_182.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_182.png",
+    "created_at": "2026-05-22T07:39:53.999Z"
+  },
+  {
+    "id": 183,
+    "category": "Vehicles & Transport",
+    "prompt": "A traditional wooden dhow sailing boat in an Arabian Gulf sunset, golden reflections",
+    "filename": "generated-images/image_183.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_183.png",
+    "created_at": "2026-05-22T07:41:24.220Z"
+  },
+  {
+    "id": 184,
+    "category": "Vehicles & Transport",
+    "prompt": "A futuristic flying car navigating between glass skyscrapers in a rainy city, neon reflections",
+    "filename": "generated-images/image_184.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_184.png",
+    "created_at": "2026-05-22T07:42:54.260Z"
+  },
+  {
+    "id": 185,
+    "category": "Vehicles & Transport",
+    "prompt": "A massive aircraft carrier at sea from above, jets on deck, dramatic ocean and sky",
+    "filename": "generated-images/image_185.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_185.png",
+    "created_at": "2026-05-22T07:44:24.063Z"
+  },
+  {
+    "id": 186,
+    "category": "Vehicles & Transport",
+    "prompt": "A sleek maglev train arriving at a glass station in a futuristic Japanese city, silent and fast",
+    "filename": "generated-images/image_186.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_186.png",
+    "created_at": "2026-05-22T07:46:00.843Z"
+  },
+  {
+    "id": 187,
+    "category": "Vehicles & Transport",
+    "prompt": "A gondola sailing through moonlit Venice canals, reflections shimmering on the water, romantic",
+    "filename": "generated-images/image_187.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_187.png",
+    "created_at": "2026-05-22T07:47:25.026Z"
+  },
+  {
+    "id": 188,
+    "category": "Vehicles & Transport",
+    "prompt": "A space shuttle launch with full exhaust plume, reflections in the water below, power and awe",
+    "filename": "generated-images/image_188.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_188.png",
+    "created_at": "2026-05-22T07:48:54.116Z"
+  },
+  {
+    "id": 189,
+    "category": "Vehicles & Transport",
+    "prompt": "A motorcycle cutting through a rainy mountain road at night, headlight cutting through mist",
+    "filename": "generated-images/image_189.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_189.png",
+    "created_at": "2026-05-22T07:50:23.943Z"
+  },
+  {
+    "id": 190,
+    "category": "Vehicles & Transport",
+    "prompt": "A hot air balloon flotilla over the Cappadocia landscape at dawn, colorful and breathtaking",
+    "filename": "generated-images/image_190.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_190.png",
+    "created_at": "2026-05-22T07:51:54.015Z"
+  },
+  {
+    "id": 191,
+    "category": "Spiritual & Cosmic",
+    "prompt": "A meditating figure levitating with chakra energy points glowing, cosmic background, spiritual art",
+    "filename": "generated-images/image_191.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_191.png",
+    "created_at": "2026-05-22T07:53:24.137Z"
+  },
+  {
+    "id": 192,
+    "category": "Spiritual & Cosmic",
+    "prompt": "The birth of a universe — the Big Bang visualized as an explosion of light and matter, cosmic",
+    "filename": "generated-images/image_192.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_192.png",
+    "created_at": "2026-05-22T07:54:54.422Z"
+  },
+  {
+    "id": 193,
+    "category": "Spiritual & Cosmic",
+    "prompt": "A mandala made of galaxies and nebulae, sacred geometry at cosmic scale, divine art",
+    "filename": "generated-images/image_193.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_193.png",
+    "created_at": "2026-05-22T07:56:25.136Z"
+  },
+  {
+    "id": 194,
+    "category": "Spiritual & Cosmic",
+    "prompt": "A tree of life stretching from earth into the stars, roots in soil and branches in galaxy",
+    "filename": "generated-images/image_194.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_194.png",
+    "created_at": "2026-05-22T07:57:54.280Z"
+  },
+  {
+    "id": 195,
+    "category": "Spiritual & Cosmic",
+    "prompt": "An angel descending through clouds with wings of pure white light, heavenly and powerful",
+    "filename": "generated-images/image_195.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_195.png",
+    "created_at": "2026-05-22T07:59:23.983Z"
+  },
+  {
+    "id": 196,
+    "category": "Spiritual & Cosmic",
+    "prompt": "A black hole consuming a star, event horizon glowing orange, relativistic jets, scientific art",
+    "filename": "generated-images/image_196.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_196.png",
+    "created_at": "2026-05-22T08:01:05.253Z"
+  },
+  {
+    "id": 198,
+    "category": "Spiritual & Cosmic",
+    "prompt": "A soul ascending from the body as light, floating upward into a vast golden cosmic space",
+    "filename": "generated-images/image_198.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_198.png",
+    "created_at": "2026-05-22T08:03:58.101Z"
+  },
+  {
+    "id": 199,
+    "category": "Spiritual & Cosmic",
+    "prompt": "A lotus flower blooming at the center of the universe, petals made of starlight and nebulae",
+    "filename": "generated-images/image_199.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_199.png",
+    "created_at": "2026-05-22T08:05:24.230Z"
+  },
+  {
+    "id": 200,
+    "category": "Spiritual & Cosmic",
+    "prompt": "The Ouroboros — a cosmic serpent eating its own tail forming the shape of the known universe",
+    "filename": "generated-images/image_200.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_200.png",
+    "created_at": "2026-05-22T08:07:02.234Z"
+  },
+  {
+    "id": 120,
+    "category": "Interior Design & Spaces",
+    "prompt": "A candlelit stone wine cellar filled with oak barrels, rustic iron fixtures, warm amber glow",
+    "filename": "generated-images/image_120.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_120.png",
+    "created_at": "2026-05-24T18:27:00.626Z"
+  },
+  {
+    "id": 122,
+    "category": "Mythology & Legends",
+    "prompt": "The Norse World Tree Yggdrasil spanning the nine realms, glowing with cosmic energy",
+    "filename": "generated-images/image_122.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_122.png",
+    "created_at": "2026-05-24T18:27:04.324Z"
+  },
+  {
+    "id": 125,
+    "category": "Mythology & Legends",
+    "prompt": "The legend of the Kraken attacking a wooden ship in a stormy sea, dramatic and terrifying",
+    "filename": "generated-images/image_125.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_125.png",
+    "created_at": "2026-05-24T18:27:08.138Z"
+  },
+  {
+    "id": 129,
+    "category": "Mythology & Legends",
+    "prompt": "Odin on his eight-legged horse Sleipnir riding across a rainbow bridge, Norse mythology art",
+    "filename": "generated-images/image_129.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_129.png",
+    "created_at": "2026-05-24T18:27:11.995Z"
+  },
+  {
+    "id": 197,
+    "category": "Spiritual & Cosmic",
+    "prompt": "The Eye of the Universe — a galaxy shaped like a human eye staring from deep space",
+    "filename": "generated-images/image_197.png",
+    "s3_url": "https://my-image-project-2026.s3.ap-south-1.amazonaws.com/generated-images/image_197.png",
+    "created_at": "2026-05-24T18:27:16.842Z"
+  }
+]
