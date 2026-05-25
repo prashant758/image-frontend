@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Gallery from "./pages/Gallery";
-import ImageDetail from "./pages/imageDetail";
+import ImageDetail from "./pages/ImageDetail";
 
 export default function App() {
   return (
