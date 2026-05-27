@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost/api",
+  baseURL: "http://localhost",
 });
 
 API.interceptors.request.use((config) => {
@@ -12,8 +12,8 @@ API.interceptors.request.use((config) => {
   return config;
 });
 
-// AUTH — /api/auth/
-export const signup = (data) => API.post("/auth/signup", {
+// AUTH
+export const signup = (data) => API.post("/api/auth/signup", {
   username: data.username,
   email: data.email,
   password: data.password,
@@ -23,42 +23,40 @@ export const login = (data) => {
   const formData = new URLSearchParams();
   formData.append("username", data.username);
   formData.append("password", data.password);
-  return API.post("/auth/login", formData, {
+  return API.post("/api/auth/login", formData, {
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
   });
 };
 
-export const logout = () => API.post("/auth/logout");
-export const getMe = () => API.get("/auth/me");
-export const getUserById = (id) => API.get(`/auth/users/${id}`);
+export const logout = () => API.post("/api/auth/logout");
+export const getMe = () => API.get("/api/auth/me");
+export const getUserById = (id) => API.get(`/api/auth/users/${id}`);
 
-// PROMPTS — /api/prompts/
-export const getAllPrompts = () => API.get("/prompts/");
-export const getTrendingPrompts = () => API.get("/prompts/trending");
-export const getPromptById = (id) => API.get(`/prompts/${id}`);
-export const createPrompt = (data) => API.post("/prompts/", data);
-export const deletePrompt = (id) => API.delete(`/prompts/${id}`);
+// PROMPTS
+export const getAllPrompts = () => API.get("/api/prompts/");
+export const getTrendingPrompts = () => API.get("/api/prompts/trending");
+export const getPromptById = (id) => API.get(`/api/prompts/${id}`);
+export const createPrompt = (data) => API.post("/api/prompts/", data);
+export const deletePrompt = (id) => API.delete(`/api/prompts/${id}`);
 
-// IMAGES — /api/images/
+// IMAGES
 export const uploadImage = (formData, promptId) =>
-  API.post(`/images/upload?prompt_id=${promptId}`, formData);
-export const getImagesByPrompt = (id) => API.get(`/images/prompt/${id}`);
-export const deleteImage = (id) => API.delete(`/images/${id}`);
+  API.post(`/api/images/upload?prompt_id=${promptId}`, formData);
+export const getImagesByPrompt = (id) => API.get(`/api/images/prompt/${id}`);
+export const deleteImage = (id) => API.delete(`/api/images/${id}`);
 
-// SOCIAL — /api/
-export const likePrompt = (id) => API.post(`/like/${id}`);
-export const getLikeCount = (id) => API.get(`/like/${id}/count`);
-export const addComment = (id, text) => API.post(`/comment/${id}`, { text });
-export const getComments = (id) => API.get(`/comment/${id}`);
-export const deleteComment = (id) => API.delete(`/comment/${id}`);
-export const followUser = (id) => API.post(`/follow/${id}`);
-export const getFollowers = (id) => API.get(`/follow/${id}/followers`);
-export const getFollowing = (id) => API.get(`/follow/${id}/following`);
-export const createCollection = (data) => API.post("/collections/", data);
-export const getMyCollections = () => API.get("/collections/my");
+// SOCIAL
+export const likePrompt = (id) => API.post(`/api/like/${id}`);
+export const getLikeCount = (id) => API.get(`/api/like/${id}/count`);
+export const addComment = (id, text) => API.post(`/api/comment/${id}`, { text });
+export const getComments = (id) => API.get(`/api/comment/${id}`);
+export const deleteComment = (id) => API.delete(`/api/comment/${id}`);
+export const followUser = (id) => API.post(`/api/follow/${id}`);
+export const createCollection = (data) => API.post("/api/collections/", data);
+export const getMyCollections = () => API.get("/api/collections/my");
 
-// AI — /api/ai/
+// AI
 export const searchByText = (query, limit = 10) =>
-  API.post("/ai/search", { query, limit });
+  API.post("/api/ai/search", { query, limit });
 export const findSimilarImages = (imageId, limit = 5) =>
-  API.post("/ai/similar-images", { image_id: imageId, limit });
+  API.post("/api/ai/similar-images", { image_id: imageId, limit });
