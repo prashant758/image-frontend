@@ -4,12 +4,18 @@ import { useState } from "react";
 export default function Navbar() {
   const [search, setSearch] = useState("");
   const navigate = useNavigate();
+  const token = localStorage.getItem("token");
 
   function handleSearch(e) {
     e.preventDefault();
     if (search.trim()) {
       navigate(`/gallery?search=${search}`);
     }
+  }
+
+  function handleLogout() {
+    localStorage.removeItem("token");
+    navigate("/login");
   }
 
   return (
@@ -40,6 +46,21 @@ export default function Navbar() {
           <Link to="/gallery" className="text-gray-600 hover:text-purple-600 text-sm font-medium">
             Gallery
           </Link>
+          {token ? (
+            <button
+              onClick={handleLogout}
+              className="bg-red-500 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-red-600"
+            >
+              Logout
+            </button>
+          ) : (
+            <Link
+              to="/login"
+              className="bg-purple-600 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-purple-700"
+            >
+              Login
+            </Link>
+          )}
         </div>
       </div>
     </nav>
