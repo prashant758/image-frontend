@@ -52,6 +52,7 @@ export default function Sidebar() {
             { icon: "🏠", label: "Home", path: "/" },
             { icon: "🔍", label: "Explore", path: "/gallery" },
             { icon: "🖼️", label: "Gallery", path: "/gallery" },
+            { icon: "⬆️", label: "Upload", path: "/upload" },
             { icon: "📌", label: "Saved", path: "/" },
             { icon: "👤", label: "Profile", path: "/profile" },
           ].map((item) => (
