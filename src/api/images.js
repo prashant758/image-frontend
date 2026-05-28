@@ -1,10 +1,7 @@
 import axios from "axios";
 
-const AUTH_URL = "https://promptgram-95ny.onrender.com";
-const API_URL = "https://promptgram-95ny.onrender.com";
-
 const API = axios.create({
-  baseURL: API_URL,
+  baseURL: "https://promptgram-95ny.onrender.com",
 });
 
 API.interceptors.request.use((config) => {
