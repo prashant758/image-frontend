@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
+import Sidebar from "./components/Sidebar";
+import RightPanel from "./components/RightPanel";
 import Home from "./pages/Home";
 import Gallery from "./pages/Gallery";
 import ImageDetail from "./pages/ImageDetail";
@@ -9,15 +10,22 @@ import Signup from "./pages/Signup";
 export default function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen bg-gray-50">
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/gallery" element={<Gallery />} />
-          <Route path="/image/:id" element={<ImageDetail />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/signup" element={<Signup />} />
-        </Routes>
+      <div style={{ display: "flex", minHeight: "100vh", background: "#F0F6FF" }}>
+        <Sidebar />
+        <div style={{ flex: 1, display: "flex", overflow: "hidden" }}>
+          <Routes>
+            <Route path="/" element={
+              <div style={{ flex: 1, display: "flex" }}>
+                <Home />
+                <RightPanel />
+              </div>
+            } />
+            <Route path="/gallery" element={<Gallery />} />
+            <Route path="/image/:id" element={<ImageDetail />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/signup" element={<Signup />} />
+          </Routes>
+        </div>
       </div>
     </BrowserRouter>
   );

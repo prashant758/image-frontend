@@ -21,61 +21,84 @@ export default function Home() {
 
   function handleCategorySelect(cat) {
     setCategory(cat);
-    if (cat === "All") {
-      setFiltered(images);
-    } else {
-      setFiltered(images.filter((img) => img.category === cat));
-    }
+    setFiltered(cat === "All" ? images : images.filter((img) => img.category === cat));
   }
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8">
-      <div className="text-center mb-10 bg-gradient-to-r from-purple-600 to-indigo-600 rounded-3xl py-16 px-6 text-white">
-        <h1 className="text-4xl font-bold mb-3">AI Generated Image Gallery</h1>
-        <p className="text-purple-100 text-lg">
-          200 unique images generated from AI prompts across 20 categories
-        </p>
-        <div className="flex justify-center gap-6 mt-6 text-sm">
-          <div className="bg-white bg-opacity-20 rounded-xl px-5 py-3">
-            <p className="text-2xl font-bold">{images.length}</p>
-            <p className="text-purple-100">Total Images</p>
-          </div>
-          <div className="bg-white bg-opacity-20 rounded-xl px-5 py-3">
-            <p className="text-2xl font-bold">20</p>
-            <p className="text-purple-100">Categories</p>
-          </div>
-          <div className="bg-white bg-opacity-20 rounded-xl px-5 py-3">
-            <p className="text-2xl font-bold">AI</p>
-            <p className="text-purple-100">Generated</p>
-          </div>
-        </div>
+    <div style={{ flex: 1, overflowY: "auto", padding: "20px 16px", position: "relative", background: "#F0F6FF" }}>
+
+      {/* Animated orbs */}
+      <div style={{ position: "fixed", inset: 0, overflow: "hidden", pointerEvents: "none", zIndex: 0 }}>
+        {[
+          { w: 220, h: 220, top: "-40px", left: "25%", color: "#0284C7" },
+          { w: 180, h: 180, top: "40%", right: "10%", color: "#06B6D4" },
+          { w: 260, h: 260, bottom: "-60px", left: "15%", color: "#0a2250" },
+        ].map((orb, i) => (
+          <div key={i} style={{
+            position: "absolute",
+            width: orb.w,
+            height: orb.h,
+            borderRadius: "50%",
+            filter: "blur(60px)",
+            opacity: 0.18,
+            background: `radial-gradient(circle, ${orb.color}, transparent)`,
+            top: orb.top,
+            left: orb.left,
+            right: orb.right,
+            bottom: orb.bottom
+          }} />
+        ))}
       </div>
 
-      <CategoryFilter selected={category} onSelect={handleCategorySelect} />
+      {/* Feed header */}
+      <div style={{ position: "relative", zIndex: 1, display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "16px" }}>
+        <h2 style={{ fontSize: "16px", fontWeight: 500, color: "#0c1a3d" }}>
+          AI Generated Feed
+        </h2>
+        <button style={{
+          padding: "7px 14px",
+          borderRadius: "8px",
+          border: "1px solid rgba(6,182,212,0.4)",
+          background: "rgba(6,182,212,0.06)",
+          color: "#0284C7",
+          fontSize: "12px",
+          fontWeight: 500,
+          cursor: "pointer"
+        }}>
+          + Share Prompt
+        </button>
+      </div>
 
-      <p className="text-gray-500 text-sm mb-4">
-        Showing {filtered.length} images
-        {category !== "All" && ` in "${category}"`}
+      {/* Category filter */}
+      <div style={{ position: "relative", zIndex: 1 }}>
+        <CategoryFilter selected={category} onSelect={handleCategorySelect} />
+      </div>
+
+      <p style={{ fontSize: "12px", color: "#4A6080", marginBottom: "12px", position: "relative", zIndex: 1 }}>
+        Showing {filtered.length} images {category !== "All" && `in "${category}"`}
       </p>
 
+      {/* Loading */}
       {loading && (
-        <div className="flex justify-center items-center h-64">
-          <div className="animate-spin rounded-full h-12 w-12 border-4 border-purple-600 border-t-transparent"></div>
+        <div style={{ display: "flex", justifyContent: "center", padding: "40px", position: "relative", zIndex: 1 }}>
+          <div style={{
+            width: "32px",
+            height: "32px",
+            borderRadius: "50%",
+            border: "3px solid rgba(6,182,212,0.2)",
+            borderTop: "3px solid #06B6D4",
+            animation: "spin 1s linear infinite"
+          }} />
+          <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
         </div>
       )}
 
-      {!loading && filtered.length > 0 && (
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+      {/* Image cards */}
+      {!loading && (
+        <div style={{ position: "relative", zIndex: 1 }}>
           {filtered.map((image) => (
             <ImageCard key={image.id} image={image} />
           ))}
-        </div>
-      )}
-
-      {!loading && filtered.length === 0 && (
-        <div className="text-center text-gray-400 py-20">
-          <p className="text-5xl mb-4">🖼️</p>
-          <p className="text-lg">No images found for this category.</p>
         </div>
       )}
     </div>
